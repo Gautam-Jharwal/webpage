@@ -1,0 +1,38 @@
+.hello {
+  background-color: #D1E8E4;
+  position: relative;
+  padding-top: 60px;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: Merriweather, serif;
+}
+.H1 {
+  width: 10%;
+  margin: 0 auto 0 auto;
+  font-family: Sacramento;
+}
+.P1 {
+   width: 10%;
+   margin: 0 auto 0 auto;
+}
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 1150px;
+}
+.cloud1 {
+  position: absolute;
+  right: 400px;
+  top: 30px;
+}
+.image {
+  border-radius: 100%;
+  position: relative;
+  top: 10px;
+}
+.Gautam {
+  border-radius: 100%;
+}
